@@ -44,7 +44,7 @@ TCP, HTTP 和 GRPC 示例都在**eventmesh-examples**模块下
 运行 org.apache.eventmesh.tcp.demo.pub.eventmeshmessage.AsyncPublishBroadcast 的main方法
 ```
 
-更多关于TCP部分的内容，请参考 [EventMesh TCP](docs/zh/sdk-java/03-tcp.md)
+更多关于TCP部分的内容，请参考 [EventMesh TCP](/docs/zh/sdk-java/03-tcp.md)
 
 ### 2. HTTP演示
 
